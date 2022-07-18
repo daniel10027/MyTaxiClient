@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815045054834",
+    "firebase_url": "https://mytaxi-58a76-default-rtdb.firebaseio.com",
+    "project_id": "mytaxi-58a76",
+    "storage_bucket": "mytaxi-58a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815045054834:android:8ab6ce7a0f9fe16d340deb",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815045054834-6r92vu7p41i6f8hnf97mi744fd2isb21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDH3KjqIWdultRw2oTtM8t1jHoRvcJCMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815045054834-6r92vu7p41i6f8hnf97mi744fd2isb21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
